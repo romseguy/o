@@ -1,0 +1,2 @@
+hotspotDB:addHotspot("Ruins of Eldarath  50 - 52", "High Elf", 50, 52, 3517.96, -5154.27, 81.23);
+hotspotDB:addHotspot("The Shattered Strand 50 - 52", "High Elf", 50, 52, 3652.35, -5655.8, 9.2);

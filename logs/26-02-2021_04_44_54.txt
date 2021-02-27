@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("Skulk Rock 47 - 49", "High Elf", 47, 49, 370.48, -3900.55, 131.46);

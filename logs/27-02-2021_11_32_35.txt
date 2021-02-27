@@ -1,0 +1,3 @@
+hotspotDB:addHotspot("Azshara 50 - 52", "High Elf", 50, 52, 2961.66, -4108.38, 102.13);
+hotspotDB:addHotspot("Haldarr Encampment 50 - 52", "High Elf", 50, 52, 3158.76, -4215.76, 104.12);
+hotspotDB:addHotspot("Haldarr Encampment 50 - 52", "High Elf", 50, 52, 3255.59, -4280.4, 126.48);

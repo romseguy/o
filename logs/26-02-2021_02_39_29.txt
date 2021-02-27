@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("The Altar of Zul 47 - 49", "High Elf", 47, 49, -165.74, -3306.03, 123.36);

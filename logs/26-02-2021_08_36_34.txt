@@ -1,0 +1,1 @@
+hotspotDB:addHotspot("Hiri'watha 46 - 48", "High Elf", 46, 48, -21.24, -2804.51, 121.95);

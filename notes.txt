@@ -1,0 +1,4 @@
+local x, y, z = GetLocalPlayer():GetPosition();
+DEFAULT_CHAT_FRAME:AddMessage(x);
+DEFAULT_CHAT_FRAME:AddMessage(z);
+DEFAULT_CHAT_FRAME:AddMessage(y);
